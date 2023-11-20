@@ -1,4 +1,4 @@
-app = "public-test-apis-bc0d"
+app = "hexrays-test-apis"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
